@@ -16,7 +16,7 @@ header {
 .nav__menu {
   width: 50vw;
   float: left;
-  margin-top: 50px;
+  margin-top: 60px;
   font-family: 'PT Serif', serif; 
 
 }
@@ -113,7 +113,9 @@ a:hover{
 
 }
 
-
+body {
+  line-height: 1.0;
+}
 
 /* GALERIA */
 #galeriaBody {
